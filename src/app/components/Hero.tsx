@@ -52,7 +52,7 @@ export function Hero() {
               <span className="text-[#a8c5a3] text-sm tracking-wider uppercase">Financial Asset Recovery</span>
             </div>
             <h1 className="text-5xl md:text-6xl lg:text-7xl text-white mb-6 leading-tight tracking-tight">
-              JT 
+              JT Collective
             </h1>
           </div>
           
