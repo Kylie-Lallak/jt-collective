@@ -101,8 +101,8 @@ export function Contact() {
           </p>
         </div>
 
-        <div className="grid lg:grid-cols-2 gap-12 lg:gap-16">
-          {/* Contact Info */}
+        <div className="m-auto">
+          {/* Contact Info grid lg:grid-cols-2 gap-12 lg:gap-16 */}
           <div>
             <h3 className="text-2xl text-gray-900 mb-8">
               Contact Information
@@ -145,7 +145,7 @@ export function Contact() {
             </div>
           </div>
 
-          {/* Contact Form */}
+          {/* Contact Form
           <div>
             <h3 className="text-2xl text-gray-900 mb-8">
               Send Us a Message
@@ -197,7 +197,7 @@ export function Contact() {
                 )}
               </button>
             </form>
-          </div>
+          </div>  */}
         </div>
       </div>
     </section>
